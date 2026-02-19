@@ -1,2 +1,2 @@
 # Air-Traffic-Analyzer
-Air Traffic Analyzer is a Flask-based web app that tracks live flights, analyzes airport traffic and congestion, and provides route and weather insights using OpenSky and OpenWeather APIs.
+This project is a full-stack air traffic analytics platform built with Flask and SQLite. It fetches real-time flight data from the OpenSky Network, analyzes airport traffic and congestion, and provides route insights, weather-based risk analysis, and basic flight statistics. The system includes authentication, dashboards, analytics pages, and APIs for live flight tracking and airport monitoring. It is designed as a learning project for building real-time data dashboards, API integrations, and aviation analytics systems.
